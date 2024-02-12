@@ -2,7 +2,7 @@
 
 These were my favorite python projects from the introductory programming course at Davidson. They are all simple to me now, but they were quite difficult for a beginner student back in the day.
 
-![Python Image](./python-image)
+![Python Image](./python-image.jpeg)
 
 ## Getting Started
 
